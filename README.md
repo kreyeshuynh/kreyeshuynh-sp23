@@ -1,1 +1,9 @@
-# kreyeshuynh-sp23
+-  Hi, I’m Kaianu Reyes-Huynh
+-  I’m interested in programming, app development and AI
+-  I’m currently learning the basics to design apps in Android using Kotlin
+-  I'm originally from San Francisco
+-  I'm a transfer student in Computer Engineering 
+-  I chose my major because I feel satisfied solving coding problems 
+-  A fun fact about me is:  I enjoy free diving
+-  What do I want to learn from EE 205?  I want to become a strong programmer 
+-  A book or movie I'd recommend is:  Cracking the coding interview
